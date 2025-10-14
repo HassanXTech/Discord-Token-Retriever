@@ -44,7 +44,6 @@ Love this project? Your support helps with new features and updates! ❤️
 ## 📬 Contact the Creator
 
 📩 **Discord:** `anomus.ly`
-⭐ **GitHub:** [AnomusLY](https://github.com/anomusly)
 
 ---
 
