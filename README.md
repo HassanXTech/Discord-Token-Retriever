@@ -58,5 +58,5 @@ DM me on Discord with your idea and budget!
 
 ## ⚖️ Disclaimer
 
-> This tool is for **educational purposes only**.
+> This tool is for **educational purposes only**
 > The developer is **not responsible** for any misuse or violation of Discord’s Terms of Service.
