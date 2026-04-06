@@ -51,7 +51,7 @@ Love this project? Your support helps with new features and updates! ❤️
 Want something tailored for your needs?
 DM me on Discord with your idea and budget!
 
-🛍️ Store: [https://axilon.mysellauth.com/](https://axilon.mysellauth.com/)
+🛍️ Store: [https://shop.axilon.app](https://shop.axilon.app)
 
 ---
 
